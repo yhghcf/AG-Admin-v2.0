@@ -20,7 +20,7 @@
                 </el-select><br>
      所属公司：<el-input v-model="carCompanies" style="width: 200px;padding-top: 10px" placeholder="请输入内容"></el-input>
                <el-button type="primary"  icon="el-icon-zoom-out"/>
-     <div style="display: inline-block;padding-left:  ">
+     <div style="display: inline-block;padding-left:388px">
         <el-button type="primary" @click="onSubmit">查询</el-button>
         <el-button>导入</el-button>
      </div>
